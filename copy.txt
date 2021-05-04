@@ -1,0 +1,7 @@
+this file is test:
+scarf
+jacket
+jumper
+boots
+coat
+wooly hat
