@@ -1,7 +1,9 @@
-this file is test:
-scarf
-jacket
-jumper
-boots
-coat
-wooly hat
+this file is testing:
+sunglasses
+cap
+T-shirt
+skirt
+dress
+short
+sandals
+
